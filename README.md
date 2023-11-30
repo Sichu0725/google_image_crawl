@@ -63,6 +63,8 @@ Image saved: 아디다스_4.jpg
 ### Output
 
 <img src="downloads/아디다스_1.png" alt="adidas.png" width=250 />
+<img src="downloads/아디다스_2.png" alt="adidas.png" width=250 />
+<img src="downloads/아디다스_3.png" alt="adidas.png" width=250 />
 
 ### Info
 
