@@ -62,7 +62,7 @@ Image saved: 아디다스_4.jpg
 
 ### Output
 
-![nice.png](downloads/아디다스_1.png)
+![adidas.png](downloads/아디다스_1.png)
 
 ### Info
 
