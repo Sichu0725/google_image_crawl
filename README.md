@@ -62,7 +62,6 @@ Image saved: 아디다스_4.jpg
 
 ### Output
 
-![adidas.png](downloads/아디다스_1.png =250x)
 <img src="downloads/아디다스_1.png" alt="adidas.png", width=250 />
 
 ### Info
